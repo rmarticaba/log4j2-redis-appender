@@ -71,9 +71,9 @@
             <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </snapshotRepository>
         <repository>
-            <id>sonatype-nexus-staging</id>
+            <id>sonatype</id>
             <name>Sonatype Nexus release repository</name>
-            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+            <url>https://maven.rapidminer.com/content/repositories/releases</url>
         </repository>
     </distributionManagement>
 

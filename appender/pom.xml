@@ -28,6 +28,7 @@
 
     <name>Log4j 2 Redis Appender</name>
     <artifactId>log4j2-redis-appender</artifactId>
+    <version>${revision}</version>
 
     <dependencies>
 
